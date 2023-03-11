@@ -1,6 +1,8 @@
-package com.ev.spring.rest.dao;
+package com.ev.spring.springboot.boot.dao;
 
-import com.ev.spring.rest.entity.Employee;
+
+
+import com.ev.spring.springboot.boot.entity.Employee;
 
 import java.util.List;
 

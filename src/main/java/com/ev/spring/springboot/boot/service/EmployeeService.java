@@ -1,8 +1,9 @@
-package com.ev.spring.rest.service;
+package com.ev.spring.springboot.boot.service;
 
 
+import com.ev.spring.springboot.boot.entity.Employee;
 
-
+import java.util.List;
 
 public interface EmployeeService {
     public List<Employee> getAllEmployees();
